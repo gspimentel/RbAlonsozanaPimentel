@@ -2,9 +2,9 @@
 Topic: Hallyu Wave
 Title: 
 
-1. aspects of hallyu wave
-2. effects/ how it became famous
-3. kpop vs ppop
-4. 
-5.
+1. All About the Hallyu Wave
+2. Aspects of the Hallyu Wave
+3. How It Got Famous
+4. Kpop VS Ppop
+5. Sources
 
