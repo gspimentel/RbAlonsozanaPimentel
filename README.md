@@ -2,15 +2,15 @@
 Topic: Hallyu Wave
 Title: Hallyu Wave 101 (tentative, i just though about it, we can change it when we think of a better one)
 
-The website we'll be creating will revolve around the hallyu wave. It's going to be an informative site about hallyu, it's history and we'll also be comparing an aspect of it to one of ours (a Philippine counterpart). Korean culture has been very famous these past years, and as one of the people who enjoy it ourselves, we'd like to share about it especially to people who don't know of it much. 
+The website we'll be creating will revolve around the hallyu wave. It's going to be an informative site about hallyu, its history and we'll also be comparing an aspect of it to one of ours (a Philippine counterpart). Korean culture has been very famous these past years, and as one of the people who enjoy it ourselves, we'd like to share about it especially to people who don't know of it much. 
 
 1. All About the Hallyu Wave
 
-  -this page will contain basic information about our topic, what it is, 
+  - this page will contain basic information about our topic, what it is, 
 
 2. How It Got Famous
 
-  -it's history, it's origin, why people like it 
+  - its history, its origin, why people like it 
 
 3. Aspects of the Hallyu Wave
 
