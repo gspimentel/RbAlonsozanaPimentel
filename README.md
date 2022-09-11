@@ -1,8 +1,6 @@
 # RbAlonsozanaPimentel Topic Proposal
 Topic: Hallyu Wave
-Title: 
-- Hallyu Wave 101 (tentative, i just though about it, we can change it when we think of a better one)
-- Highlighting Hallyu (idk, I just think it's catchy)
+Title: Highlighting Hallyu
 
 The website we'll be creating will revolve around the hallyu wave. It's going to be an informative site about hallyu, its history and we'll also be comparing an aspect of it to one of ours (a Philippine counterpart). Korean culture has been very famous these past years, and as one of the people who enjoy it ourselves, we'd like to share about it especially to people who don't know of it much. 
 
@@ -20,7 +18,7 @@ The website we'll be creating will revolve around the hallyu wave. It's going to
 
 4. Personal Experiences as Kpop Fans
 
-  - how we got to like Kpop over the years (?)
+  - why do we like kpop? how did we discover it?
 
 5. Sources and Credentials (?)
 
