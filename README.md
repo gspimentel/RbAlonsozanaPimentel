@@ -7,7 +7,7 @@ The website we'll be creating will revolve around the hallyu wave. It's going to
 
 For the layout of the website, it will have the title, the creators' names (our names), and 5 links to the five other webpages that will discuss some subtopics. 
 
-All 5 webpages will have some images, the text discussing the subtopic and 5 links: one back to the home page 4 other links to the 4 webpages.
+*All 5 webpages will have some images, the text discussing the subtopic and 5 links: one back to the home page 4 other links to the 4 other webpages.*
 
 1. All About the Hallyu Wave
 
