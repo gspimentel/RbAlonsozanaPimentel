@@ -28,3 +28,12 @@ For the layout of the website, it will have the title, the creators' names (our 
 5. Sources and Credentials (?)
 
   - our sources throughout the making of the project
+  
+ ![Home Page](https://user-images.githubusercontent.com/113072405/190317685-e4410dfb-9d89-4aa9-b00d-ee1abf8360d4.png)
+  
+![1st Topic Webpage](https://user-images.githubusercontent.com/113072405/190317729-e1cf218e-34a0-4d18-944c-beb175adddea.png)
+
+![2nd Topic Webpage](https://user-images.githubusercontent.com/113072405/190317751-e7ea50b9-26e3-45ca-b27c-28a592993971.png)
+
+  
+  
