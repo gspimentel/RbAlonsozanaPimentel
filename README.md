@@ -3,7 +3,7 @@ Topic: Hallyu Wave
 
 Title: Highlighting Hallyu
 
-The website we'll be creating will revolve around the hallyu wave. It's going to be an informative site about hallyu, its history and we'll also be comparing an aspect of it to one of ours (a Philippine counterpart). Korean culture has been very famous these past years, and as one of the people who enjoy it ourselves, we'd like to share about it especially to people who don't know of it much. 
+The website we'll be creating will revolve around the Hallyu Wave. It's going to be an informative site about Hallyu, its history and we'll also be comparing an aspect of it to one of ours (a Philippine counterpart). Korean culture has been very famous these past years, and as one of the people who enjoy it ourselves, we'd like to share about it especially to people who don't know of it much. 
 
 For the layout of the website, it will have the title, the creators' names (our names), and 5 links to the five other webpages that will discuss some subtopics. 
 
@@ -11,23 +11,23 @@ For the layout of the website, it will have the title, the creators' names (our 
 
 1. All About the Hallyu Wave
 
-  - this page will contain basic information about our topic, what it is, its history, its origin, why people like it. 
+  - This page will contain basic information about our topic, what it is, its history, its origin, why people like it. 
 
 2. Aspects of the Hallyu Wave
 
-  - the different aspects or categories of hallyu. 
+  - This page will introduce the different aspects or categories of Hallyu. 
 
 3. Kpop VS Ppop
 
-  - a comparison between Korean pop and Philippine pop, what's the difference?
+  - In this page, we will compare Korean Pop and Philippine Pop against each other (similarities and differences). 
 
 4. Personal Experiences as Kpop Fans
 
-  - why do we like kpop? how did we discover it?
+  - In this page, we will answer the questions "Why do we like K-pop?" and "How did we discover K-pop?/How were we introduced to K-pop?"
 
-5. Sources and Credentials (?)
+5. Sources and Credentials
 
-  - our sources throughout the making of the project
+  - This will contain the sources and credentials we used throughout making this Website.
   
  ![Home Page](https://user-images.githubusercontent.com/113072405/190317685-e4410dfb-9d89-4aa9-b00d-ee1abf8360d4.png)
   
