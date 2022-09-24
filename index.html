@@ -2,15 +2,144 @@
 <html>
 
 <head>
-  <title>Sample Page on Table </title>
-  <meta charset="UTF-8"/>
-  <meta name="author" content="AL Mendoza"/>
-  <meta name="keywords" content="table, caption, tr, td, th"/>
-  <meta name="revised" content="22-Sept-2022"/>
-</head>
+  <title> Home Page </title>
+  <meta charset="UTF-8">
+  <meta name="author" content="GS Pimentel">
+  <meta name="keywords" content="HTML, CSS">
+  <meta name="revised" content="24-Sept-2022">
+  <link href="style.css" rel="stylesheet" type="text/css">
+
+  <style>
+    .container:hover .overlay {
+      bottom: 0;
+      height: 100%; 
+      width: 100%}
+
+    div {
+      align-content: center;}
+    
+    ul {
+      float: right;
+      list-style: none }
   
+    h2 {
+      font-family: "Optima", sans-serif;
+      color: #5F4C82;
+      padding: 70px 0;
+      text-align: center; }
+
+    .container {
+      position: relative;
+      width: 100%; }
+
+    .image {
+      display: block;
+      height:100px
+      width:200px}
+    
+    .overlay {
+      position: absolute;
+      bottom: 100%;
+      left: 0;
+      right: 0;
+      background-color: #5F4C82;
+      overflow: hidden;
+      width: 100%;
+      height:0;
+      transition: .5s ease;}
+    
+    .container:hover .overlay {
+      bottom: 0;
+      height: 100%;}
+    
+    .text {
+      color: white;
+      font-size: 15px;
+      font-family: "Optima", sans-serif;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+      text-align: center;}
+
+    a {
+      color: #54b3d6;
+      text-decoration:none; }
+
+    body {
+      background-image: url('images/bg.png');}
+    
+  </style>
+</head>
+    
     <body>
-      <img src="cs wireframe.png">
+    <img src="images/logo.png" height="80" width="80"> <br>
+      
+<div>
+    <img src="images/hh.png" height="550" width="850"> 
+      
+    <ul> 
+      
+    <li>
+    <div class="container">
+     <img class="image" src="images/p1.png" height="90" width="180">
+      <div class="overlay">
+      <div class="text"> <a href="https://prjp1.gabrielapiment1.repl.co/" target=”_blank”> All About Hallyu </a> </div>
+      </div>
+    </div>
+    </li>
+<br>
+    <li>
+    <div class="container">
+      <img class="image" src="images/p2.png" height="90" width="180">
+      <div class="overlay">
+      <div class="text">
+        <a href="https://prjp1.gabrielapiment1.repl.co/" target=”_blank”> Aspects of the Hallyu Wave </a>
+      </div>
+      </div>
+    </div>
+    </li>
+<br>
+     <li>
+     <div class="container">
+      <img class="image" src="images/p3.png" height="90" width="180">
+      <div class="overlay">
+      <div class="text">
+        <a href="https://prjp1.gabrielapiment1.repl.co/" target=”_blank”> K-Pop vs P-Pop </a>
+      </div>
+      </div>
+    </div>
+    </li>
+
+<br>
+     <li>
+     <div class="container">
+      <img class="image" src="images/p4.png" height="90" width="180">
+      <div class="overlay">
+      <div class="text">
+        <a href="https://prjp1.gabrielapiment1.repl.co/" target=”_blank”> Personal Experiences as Fans </a>
+      </div>
+      </div>
+    </div>
+    </li> 
+
+<br>
+     <li>
+     <div class="container">
+      <img class="image" src="images/p5.png" height="90" width="180">
+      <div class="overlay">
+      <div class="text">
+        <a href="https://prjp1.gabrielapiment1.repl.co/" target=”_blank”> Sources / Credentials </a>
+      </div>
+      </div>
+    </div>
+    </li> 
+      
+    </ul> 
+
+</div>
     </body>
   
-</html>
+</html> 
