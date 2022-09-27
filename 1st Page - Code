@@ -9,7 +9,35 @@
 </head>
 
 <body>
+  <h1>All About Hallyu</h1>
+
+  <hr>
+
+  <div class="clearfix" style="text-align: left"><img class="BTS1" src="Images/BTS1stPage.jpeg" height="300px" width="600px"></div>
+  <p></p>
+  <div class="clearfix" style="text-align: left"><img class="CLOY2" src="Images/CLOY1webpage.jpg" height="300px" width="600px"></div>
+
+  <div>This page is an informational site about Hallyu.</div>
   
+  <!-- Can I ask for help regarding the positioning of the text? It won't work like I want it to...-->
+  
+  <style>
+    h1 {
+      text-align: center;
+    }
+
+    .clearfix {
+      overflow: auto;
+    }
+
+    .BTS1 {
+      float: left;
+    }
+
+    .CLOY2 {
+      float: left;
+    }
+  </style>
 </body>
 
 </html>
