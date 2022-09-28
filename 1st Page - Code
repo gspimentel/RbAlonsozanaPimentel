@@ -6,6 +6,12 @@
   <meta name="viewport" content="width=device-width">
   <title>Highlighting Hallyu: All About Hallyu</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
+
+   <style>
+    h1 {
+      text-align: center;
+    }
+  </style>
 </head>
 
 <body>
@@ -18,12 +24,6 @@
   <img src="https://occ.a.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXY9DKj3F-wGut22aH8CnvzTyR0lwDql8UodzVcOqWSOzYTqFC0rBYYiKpwrmUChWmhz2pkEm2_WT6x2o8JLPp5FtL8QkT_zy2k9VoC2JaAHFW01Yp_3YMpzJuAJKQnfhi6xfA.jpg?r=2b0" height="300px" width="600px">
   
   <!-- Can I ask for help regarding the positioning of the text? It won't work like I want it to...-->
-  
-  <style>
-    h1 {
-      text-align: center;
-    }
-  </style>
 </body>
 
 </html>
