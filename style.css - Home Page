@@ -2,7 +2,9 @@
       height: 100%;
       width: 90%;
       margin: 3% auto;
-      background-attachment: fixed}
+      background-attachment: fixed;
+      font-family: "Optima", sans-serif;
+      color: #5F4C82;}
 
     .container:hover .overlay {
       bottom: 0;
@@ -54,17 +56,44 @@
     body {
       background-image: url('images/bg.png');}
 
+    div#nav{
+      width:90%;
+    }
+
+    *{
+      box-sizing:border-box;}
+
     div#text {
-      font-family: "Optima", sans-serif;
-      background-color: white;
-      color: #5F4C82;
-      text-align: center; }
+      width:70%;
+      background-color: #FFE9F8;
+      text-align: center;
+      margin:20px auto;
+      align-content: center;
+      padding: 20px 0px 20px 0px;
+      border:5px solid;
+      border-style: groove;
+      border-color: #ffbdea;}
+
+    div#one{
+      width: 40%;
+      margin:20px auto;
+      text-align: left;
+    }
 
     div {
           align-content: center;}
     
     ul {
         float: right;
-        list-style: none }
+        list-style: none; }
+
+    div#footer{
+      width: 70%;
+      margin:20px auto;
+      background-color: #FFE9F8;
+      text-align: center;
+      border: 2px;
+      border-color: #ffbdea;
+    }
 
 
