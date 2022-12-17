@@ -1,24 +1,25 @@
 html, body {
-      height: 100%;
-      width: 95%;
-      margin: 3% auto;
-      background-attachment: fixed;
-      align-content: center;}
+  height: 100%;
+  width: 95%;
+  margin: 3% auto;
+  background-attachment: fixed;
+  align-content: center;
+}
 
-.container:hover .overlay {
+ .container:hover .overlay {
       bottom: 0;
       height: 100%; 
       width: 100%}
 
- .container {
+    .container {
       position: relative;
       width: 100%;}
 
- .image {
+    .image {
       display: block;
       }
     
- .overlay {
+    .overlay {
       position: absolute;
       bottom: 100%;
       left: 0;
@@ -29,11 +30,11 @@ html, body {
       height:0;
       transition: .5s ease;}
     
-  .container:hover .overlay {
+    .container:hover .overlay {
       bottom: 0;
       height: 100%;}
     
-  .text {
+    .text {
       color: white;
       font-size: 15px;
       font-family: "Optima", sans-serif;
@@ -45,16 +46,16 @@ html, body {
       transform: translate(-50%, -50%);
       text-align: center;}
 
-  a {
+    a {
       color: #54b3d6;
       text-decoration:none; }
     
     
-  body {
+    body {
       background-image: url('images/bg3.png');
     }
 
-  header {
+    header {
       color: #5F4C82;
       text-shadow: 2px 2px 5px #5be7e4;
       font-style: italic;
@@ -65,20 +66,24 @@ html, body {
       right: 95px;
     }
 
-  h1, h2 {
+    h1, h2 {
       text-align: center;
       font-family: "Optima", sans-serif;
       color: #5F4C82;
     }
 
-  div {
+    /* div#content{
+      float: left;
+      margin:20px auto;} */
+
+    div {
       align-content: center;}
     
-  ul {
+    ul {
       float: right;
       list-style: none; }
   
-  div#text{
+    div#text{
       font-family: "Optima", sans-serif;
       color: #5F4C82;
       font-weight: bold;
@@ -94,38 +99,87 @@ html, body {
       position: relative;
       right: 110px;}
 
-  div#text1 {
+    div#text1 {
       width:80%;}
 
-  .text a:hover {
+     .text a:hover {
       color:white;}
 
-  td {
+     td {
        align-content:right;}
 
-  div#kpop{
+      div#kpop{
         display:inline-block;
       }
 
-  div#nav{
-            position:sticky;
-            top: 0;
-          }
+div#nav{
+  position:sticky;
+  top: 0;
+}
 
-  iframe#ytc {
-    padding-right: 5px;
-  }
+iframe#ytc {
+  padding-right: 5px;
+}
 
-  iframe#what {
-    float: right;
-  }       
+iframe#what {
+  float: right;
+}       
 
-  footer{
-        font-family: "Optima", sans-serif;
-        color: #5F4C82;
-        width: 90%;
-        margin:20px auto;
-        text-align: center;
-        border: 2px;
-      }
+.lo {
+  margin:20px auto;
+  position: relative;
+   right: 110px;
+}
+
+div#sprites {
+  position: absolute;
+  left:47.5%;
+}
+
+.lo > h4 {
+  font-family: "Optima", sans-serif;
+  color: #5F4C82;
+  font-weight: bold;
+  position: absolute;
+  left:27.5%;
+}
+
+.sprite {
+	background: url('images/icon.png') no-repeat -296px -91px;
+	width: 33px;
+	height: 33px;
+  display: inline-block;
+  
+ 
+}
+
+.sprite:hover {
+	background: url('images/icon.png') no-repeat -296px -16px;
+	width: 33px;
+	height: 33px;
+  
+}
+
+.spriite {
+	background: url('images/icon.png') no-repeat -296px -91px;
+	width: 33px;
+	height: 33px;
+  display: inline-block;
+  
+  
+}
+
+.spriite:hover {
+	background: url('images/icon.png') no-repeat -296px -16px;
+	width: 33px;
+	height: 33px;
+}
+
+footer{
+      font-family: "Optima", sans-serif;
+      color: #5F4C82;
+      width: 90%;
+      text-align: center;
+      border: 2px;
+    }
 
