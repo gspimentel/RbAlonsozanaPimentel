@@ -1,10 +1,11 @@
-    html, body {
+html, body {
       height: 100%;
       width: 95%;
       margin: 3% auto;
       background-attachment: fixed;
       font-family: "Optima", sans-serif;
-      color: #5F4C82;}
+      color: #5F4C82;
+      position: relative;}
 
     .container:hover .overlay {
       bottom: 0;
@@ -64,7 +65,7 @@
       box-sizing:border-box;}
 
     div#text {
-      width:70%;
+      width:60%;
       background-color: #FFE9F8;
       text-align: center;
       margin:20px auto;
@@ -72,7 +73,14 @@
       padding: 20px 0px 20px 0px;
       border:5px solid;
       border-style: groove;
-      border-color: #ffbdea;}
+      border-color: #ffbdea;
+     }
+
+    p {
+       text-shadow: 2px 2px 5px #5be7e4;
+       font-style: italic;
+       font-size: 200%;
+    }
 
     div#one{
       width: 40%;
@@ -87,13 +95,42 @@
         float: right;
         list-style: none; }
 
-    div#footer{
-      width: 70%;
-      margin:20px auto;
-      background-color: #FFE9F8;
-      text-align: center;
-      border: 2px;
-      border-color: #ffbdea;
+    li {
+       display: inline-block;
     }
 
+    iframe#audio {
+      position: absolute;
+      right: 460px;
+    }
 
+    footer{
+      position: absolute;
+      bottom: -910px;
+      right: 400px;
+      font-family: "Optima", sans-serif;
+      color: #5F4C82;
+      height: 75px;
+      width: 40%;
+      margin:20px auto;
+      text-align: center;
+      /* text-shadow: 2px 2px 5px #ffffff; */
+       }
+
+    footer > h4 {
+      background-color: white;
+    }
+
+    #Spotify a:link {
+      display: inline-block;
+      background: url('images/Sprite Copy.jpg') no-repeat -57px -384px;
+	    width: 92px;
+	    height: 96px;
+    }
+
+    #Spotify a:hover {
+      display: inline-block;
+      background: url('images/Sprite Copy.jpg') no-repeat -529px -384px;
+	    width: 92px;
+	    height: 96px;
+    }
